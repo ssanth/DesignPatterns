@@ -12,9 +12,3 @@ These design patterns are all about Class and Object composition. Structural cla
 Behavioral :
 
 
-Interesting facts:
-Peter Norvig provides a similar argument. He demonstrates that 16 out of the 23 patterns in the Design Patterns book (which is primarily focused on C++) are simplified or eliminated (via direct language support) in Lisp or Dylan.
-
-
-Solution to prevent Anti-Patterns :
-Refactoring
